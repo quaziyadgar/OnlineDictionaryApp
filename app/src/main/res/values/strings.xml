@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OnlineDictionaryApp</string>
+    <string name="add_word_meaning">Add Word Meaning</string>
+</resources>
